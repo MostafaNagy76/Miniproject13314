@@ -1,0 +1,39 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\M.NAGY\Desktop\MINIPROJECT28_13314\charmeleon_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.594502 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 22a0 -> priority: 1 
+  Thread -> id: 3ce0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.517979 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 2.273003 ms (FindLiveObjects: 0.022501 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.136190 ms  DeleteObjects: 2.098916 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.864909 ms
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 3.466350 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.014605 ms MarkObjects: 0.174482 ms  DeleteObjects: 3.255945 ms)
+
